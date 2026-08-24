@@ -23,7 +23,6 @@ An interactive choropleth of unmet mental health need across California, mapped 
 |---|---|
 | `index.html` | The full interactive map as one self-contained page, served by GitHub Pages at [subinna.com/SSEM](https://subinna.com/SSEM/) |
 | `figures/map_overview.png` | The overview image shown above |
-| `notebooks/SICSS_2026_Tutorial_Part1.ipynb` | A SICSS @ Penn 2026 tutorial notebook on human mobility data, saved here from Colab. It is not part of the map |
 
 ## Author
 
